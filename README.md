@@ -103,12 +103,12 @@ Fungsi: Implementasi struktur data Queue (FIFO - First In, First Out) yang mendu
 
 ---
 
-### Cara Menjalankan Program (
-Kompilasi Semua program .java 
-caranya di terminal adalah dengan menggunakan javac namafile.java
-Jalankan program dengan cara menekan tombol run apabila di ( vscode ) atau dengan java Main apabila di terminal
-program yang dijalankan adalah main.java
-setelah itu pengguna dapat menggunakan program tersebut dengan berbagai fitur yang ada seperti manajemen pasien, dokter dan appointment.
+### Cara Menjalankan Program 
+1. Kompilasi Semua program .java 
+2. caranya di terminal adalah dengan menggunakan javac namafile.java
+3. Jalankan program dengan cara menekan tombol run apabila di ( vscode ) atau dengan java Main apabila di terminal
+4. program yang dijalankan adalah main.java
+5. setelah itu pengguna dapat menggunakan program tersebut dengan berbagai fitur yang ada seperti manajemen pasien, dokter dan appointment.
 
 ---
 
