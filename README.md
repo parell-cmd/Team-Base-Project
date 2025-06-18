@@ -113,11 +113,11 @@ setelah itu pengguna dapat menggunakan program tersebut dengan berbagai fitur ya
 ---
 
 ### Pembagian Tugas
-Ardina Vidya Suryaningtyas (L0124041) 
+1. Ardina Vidya Suryaningtyas (L0124041) 
  membuat doctor.java dan edit video
-Dafandi Fadil Darmawan (L0124046) 
+2. Dafandi Fadil Darmawan (L0124046) 
 membuat Struktur datannya ( queque, stack, linkedlist) dan readme.md
-Velengio Deriksen Charles (L0124080)
+3. Velengio Deriksen Charles (L0124080)
 Menghimpun kesemuanya dan menjadikan satu semua code, membuat bst dan patient.java
-Farrel Rozaq Ramadhan (L0124099)
+4. Farrel Rozaq Ramadhan (L0124099)
 membuat appointmen.java dan readme.md
