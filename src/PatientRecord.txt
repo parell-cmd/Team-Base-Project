@@ -1,0 +1,29 @@
+PatientID: 1
+Name: aleng
+Age: 12
+Address: villa
+Phone: 0895
+Record-1: Disease: 1, Treatment: 1, Medicines: 1, Appointment Time: 09.00, Doctor Name: ya
+Record-2: Disease: 2, Treatment: 2, Medicines: 2, Appointment Time: 09.00, Doctor Name: ya
+----
+PatientID: 2
+Name: rel
+Age: 13
+Address: rem
+Phone: 0896
+Record-1: Disease: 2, Treatment: 2, Medicines: 2, Appointment Time: 10.00, Doctor Name: ya
+----
+PatientID: 3
+Name: daf
+Age: 13
+Address: 0897
+Phone: 0897
+Record-1: Disease: 3, Treatment: 3, Medicines: 3, Appointment Time: 09.00, Doctor Name: wow
+Record-2: Disease: 4, Treatment: 4, Medicines: 4, Appointment Time: 09.00, Doctor Name: wow
+----
+PatientID: 4
+Name: din
+Age: 14
+Address: lan
+Phone: 0898
+----
